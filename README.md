@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimentoativo-orange?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento%20ativo-orange?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/API-REST%20%2F%20OpenAPI-009688?style=for-the-badge" alt="API" />
   <img src="https://img.shields.io/badge/Database-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
