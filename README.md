@@ -1,4 +1,4 @@
-# 🚲 CashBike — Recompensas e Mobilidade Sustentável
+# 🚲 CashBike - Recompensas e Mobilidade Sustentável
 
 > **Pedale. Acumule pontos. Conquiste benefícios.**  
 > Plataforma de gamificação voltada para incentivar o uso da bicicleta como meio de transporte e atividade física por meio de recompensas reais.
@@ -6,7 +6,8 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento%20ativo-orange?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Projeto-Pessoal-blue?style=for-the-badge" alt="Projeto Pessoal" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/API-REST%20%2F%20OpenAPI-009688?style=for-the-badge" alt="API" />
   <img src="https://img.shields.io/badge/Database-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
